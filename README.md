@@ -22,7 +22,7 @@ cd file-hash-verifier
 
 2. you get has like {it is only for example}
 
-        [INFO] SHA256 hash of example/testfile.txt:  
+        [INFO] SHA256 hash of testfile.txt:  
         e3b96d0dad8eb141a90bdc338c591a682a37600edba3bd9b0379e175e5eae95a
 
 3. Then Compare with saved hash: 
@@ -33,4 +33,4 @@ cd file-hash-verifier
     I compare to my hash file vith test file:
         
         ```bash
-        python hashverifier.py example/testfile.txt --compare e3b96d0dad8eb141a90bdc338c591a682a37600edba3bd9b0379e175e5eae95a
+        python hashverifier.py testfile.txt --compare e3b96d0dad8eb141a90bdc338c591a682a37600edba3bd9b0379e175e5eae95a
