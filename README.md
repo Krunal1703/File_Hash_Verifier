@@ -10,7 +10,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Krunal1703/file-hash-verifier.git
+git clone krunal1703.github.io/File_Hash_Verifier/
 cd file-hash-verifier
 
                         OR
